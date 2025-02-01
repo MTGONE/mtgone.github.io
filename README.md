@@ -1,2 +1,2 @@
-# mtgone.githubs.io
-Community Cube Project
+# MagicOne
+Rediscover the Shores of Imagination
